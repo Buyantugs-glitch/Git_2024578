@@ -15,6 +15,8 @@ public class Git_2024578 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("Buyantugs Lkhagvadorj-2024578");
+        
     }
     
 }
